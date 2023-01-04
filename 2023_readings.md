@@ -38,7 +38,9 @@ Each week will have two threads:
 
 Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter problems with Slack or accessing any of the readings.
 
-## Topic 1 - Introduction to Genetic Tools for Conservation Intervention (Dates)
+<br>
+
+## Topic 1 - Introduction to Genetic Tools for Conservation Intervention *(January 23 - February 3)*
 
 **Rationale:**
 
@@ -64,7 +66,9 @@ Authors: Ary A. Hoffmann, Adam D. Miller, Andrew R. Weeks
 > 
 > Authors: Juan D. Gaitán-Espitia, Alistair J. Hobday
 
-## Topic 2 - The Debate Surrounding Genetic Rescue (Dates)
+<br>
+
+## Topic 2 - The Debate Surrounding Genetic Rescue *(February 6 - February 17)*
 
 **Rationale:** 
 
@@ -94,8 +98,9 @@ Authors: Marty Kardos, Ellie E. Armstrong, Sarah W. Fitzpatric, Samantha Hauser,
 > 
 > Authors: João C. Teixeira, Christian D. Huber
 
+<br>
 
-## Topic 3 - Genetic Rescue in Action (Dates)
+## Topic 3 - Genetic Rescue in Action *(February 20 - March 3)*
 
 **Rationale:**
 
@@ -125,7 +130,9 @@ Authors: Alexander Ochoa, David P. Onorato, Melody E. Roelke-Parker, Melanie Cul
 > 
 > Authors: Andrew R. Weeks, Dean Heinze, Louise Perrin, Jakub Stoklosa, Ary A. Hoffmann, Anthony van Rooyen, Tom Kelly, Ian Mansergh 
 
-## Topic 4 - Assisted Gene Flow (Dates)
+<br>
+
+## Topic 4 - Assisted Gene Flow *(March 6 - March 17)*
 
 **Rationale:**
 
@@ -155,8 +162,9 @@ Authors: Luke Browne, Jessica W. Wright, Sorel Fitz-Gibbon, Paul F. Gugger,  Vic
 > 
 > Authors: Gregory A. Backus, Marissa L. Baskett
 
+<br>
 
-## Topic 5 - Artificial Breeding and Restoration (Dates)
+## Topic 5 - Artificial Breeding and Restoration *(March 20 - March 31)*
 
 **Rationale:**
 
@@ -186,8 +194,9 @@ Authors:
 > 
 > Authors:
 
+<br>
 
-## Topic 6 - Genome Editing and De-extinction (Dates)
+## Topic 6 - Genome Editing and De-extinction *(April 3 - April 14)*
 
 **Rationale:**
 
@@ -217,7 +226,9 @@ Authors:
 > 
 > Authors: 
 
-## Synthesis (Dates)
+<br>
+
+## Synthesis *(April 17 - April 28)*
 
 **Rationale:** As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefore the final week is for groups to gather together and synthesize previous discussions.
 
