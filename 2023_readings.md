@@ -24,7 +24,7 @@ We divided our readings into six different topics that fall under the general th
 
 #### Navigating Slack 
 
-> this part needs to be updated with this year's activity)
+> this part needs to be updated with this year's activity
 
 To facilitate discussions among members of the RCN, we have set up a Slack channel at [evolvingseas.slack.com](https://evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/zt-6qomho5f-TR75xoF25rgqKzqf5OxbUg). Then, under `Channels`, click the `+` and search for `2023-spring-readings`.
 
@@ -44,7 +44,7 @@ Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter proble
 
 **Rationale:**
 
-
+> All rationales need to be filled in
 
 **Paper 1:**
 
@@ -232,3 +232,4 @@ Authors: Jianqing Lin, David Duchêne, Christian Carøe, Oliver Smith, Marta Mar
 
 **Rationale:** As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefore the final week is for groups to gather together and synthesize previous discussions.
 
+> this part needs to be updated with this year's activity
