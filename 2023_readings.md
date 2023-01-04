@@ -44,7 +44,7 @@ Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter proble
 
 **Rationale:**
 
-> All rationales need to be filled in
+This week’s readings were selected to provide an overview of genetic tools for conservation intervention. Both papers explore many of the topics that will be explored more in depth in following weeks, including genetic rescue, assisted gene flow, gene editing, and de-extinction. The first paper discusses both the potential applications of genomic tools to the management of populations and questions to consider before using these methods. The second reviews strategies for genetic management and establishes common terminology for discussing such strategies. The supplemental paper is aimed at managers and conservation practitioners, and discusses the opportunities and risks of conservation interventions.
 
 **Paper 1:**
 
@@ -136,7 +136,7 @@ Authors: Alexander Ochoa, David P. Onorato, Melody E. Roelke-Parker, Melanie Cul
 
 **Rationale:**
 
-
+This week’s readings were selected to provide a comprehensive overview of assisted gene flow. The first paper uses simulations to explore assisted gene flow outcomes on population-level fitness and thus determine scenarios in which assisted gene flow may be an appropriate intervention. The second is a case study of genome-informed assisted gene flow in the valley oak *Quercis lobata*. Supplemental papers include an experimental study of assisted gene flow for forest management and another paper using models to assess assisted migration outcomes, respectively.
 
 **Paper 1:**
 
