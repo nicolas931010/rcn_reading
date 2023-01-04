@@ -40,7 +40,7 @@ Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter proble
 
 <br>
 
-## Topic 1 - Introduction to Genetic Tools for Conservation Intervention *(January 23 - February 3)*
+## Topic 1 - Introduction and Background *(January 23 - February 3)*
 
 **Rationale:**
 
@@ -174,13 +174,13 @@ Authors: Luke Browne, Jessica W. Wright, Sorel Fitz-Gibbon, Paul F. Gugger,  Vic
 
 [Temporal monitoring of the Floreana Island Galapagos giant tortoise captive breeding program](https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icac129/6652102)
 
-Authors: 
+Authors: Rachel Gray, Nicole Fusco, Joshua M Miller, Washington Tapia, Carol Mariani, Adalgisa Caccone, Evelyn L Jensen
 
 **Paper 2:**
 
 [Detecting genomic variation underlying phenotypic characteristics of reintroduced Coho salmon (Oncorhynchus kisutch)](https://link.springer.com/article/10.1007/s10592-020-01307-0) (recommended for bi-weekly groups)
 
-Authors: 
+Authors: Rebekah L. Horn, Cory Kamphaus, Keely Murdoch & Shawn R. Narum
 
 <br>
 
@@ -188,11 +188,11 @@ Authors:
 > 
 > [A novel holistic framework for genetic-based captive-breeding and reintroduction programs](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.12699)
 > 
-> Authors:
+> Authors: C.R.M. Attard, L.M. Möller, M. Sasaki, M.P. Hammer, C.M. Bice, C.J. Brauer, D.C. Carvalho, J.O. Harris, L.B. Beheregaray
 > 
 > [Molecular tools for coral reef restoration: Beyond biomarker discovery](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12687)
 > 
-> Authors:
+> Authors: John Everett Parkinson, Andrew C. Baker, Iliana B. Baums, Sarah W. Davies, Andréa G. Grottoli, Sheila A. Kitchen, Mikhail V. Matz, Margaret W. Miller, Andrew A. Shantz, Carly D. Kenke
 
 <br>
 
@@ -206,13 +206,13 @@ Authors:
 
 [Gene drives for vertebrate pest control: Realistic spatial modelling of eradication probabilities and times for island mouse populations](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16361) (recommended for bi-weekly groups)
 
-Authors: 
+Authors: Aysegul Birand, Phillip Cassey, Joshua V. Ross, James C. Russell, Paul Thomas, Thomas A. A. Prowse
 
 **Paper 2:**
 
 [Probing the genomic limits of de-extinction in the Christmas Island rat](https://www.sciencedirect.com/science/article/pii/S0960982222002494)
 
-Authors: 
+Authors: Jianqing Lin, David Duchêne, Christian Carøe, Oliver Smith, Marta Maria Ciucani, Jonas Niemann, Douglas Richmond, Alex D. Greenwood, Ross MacPhee, Guojie Zhang, Shyam Gopalakrishnan, M. Thomas P. Gilbert
 
 <br>
 
@@ -220,11 +220,11 @@ Authors:
 > 
 > [Transforming ecology and conservation biology through genome editing](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13292)
 > 
-> Authors: 
+> Authors: Michael P. Phelps, Lisa W. Seeb, James E. Seeb
 > 
 > [Pathways to de-extinction: how close can we get to resurrection of an extinct species?](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.12705)
 > 
-> Authors: 
+> Author: Beth Shapiro
 
 <br>
 
