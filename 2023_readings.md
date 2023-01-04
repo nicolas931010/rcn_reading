@@ -1,36 +1,46 @@
 ---
 layout: page
 title: 2023 Coordinated readings
-subtitle: Applications of genomic tools for conservation intervention
+subtitle: Applications of genetic tools for conservation intervention
 ---
 
-To facilitate discussions among members of the RCN, we have set up Slack channel at [evolvingseas.slack.com](https://evolvingseas.slack.com).
+# Applications of genetic tools for conservation intervention
 
-To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/zt-6qomho5f-TR75xoF25rgqKzqf5OxbUg).  We encourage you to discuss the papers with other participants prior to joining the larger discussion on slack. For each topic, your group should choose one person to post a summary to the Slack channel that summarizes the group’s reaction to the papers and discussion questions. We have made efforts to improve representation and diversity in our selected readings. Please scroll to the bottom of this page for a diversity summary. Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter problems with Slack or accessing any of the readings.
+Our fifth set of coordinated readings focuses on conservation interventions. As we are facing a looming biodiversity crisis, conventional conservation strategies (e.g. endangered species list, protected areas, catch limits) often seem woefully insufficient and more proactive or even radical practices are increasingly being considered. How can we use the rapidly evolving genetic and genomic toolbox to guide these conservation interventions?
 
-To form a discussion group: 1) Start a group at your home institution and meet once or twice during each two-week period (any time during the two weeks is fine) to read and discuss the papers, 2) Discuss papers virtually before joining the larger discussion via the #2022-spring-readings group on the RCN Slack. 
+This year's papers were selected by [Camille Rumberger](https://sites.google.com/site/katielotterhos/people?pli=1#h.1zk9vvawn8sx), [Mikhail Matz](https://matzlab.weebly.com/), and [Nicolas Lou](https://www.sudmantlab.org/people.html). [Brendan Reid](https://nerdbrained.wixsite.com/home) led a team that developed strategies to facilitate interactions among participants from different institutions. We are grateful to [Nina Overgaard Therkildsen](https://www.therkildsenlab.com/) for coming up with this year's theme, as well as the broader RCN community for their efforts in generating topics, discussion questions, and scientific papers.
 
-### Navigating Slack
+## Logistics
+
+#### Forming a discussion group
+
+We encourage you to discuss the papers with a smaller group of participants prior to joining the larger RCN reading group community on Slack. You can either form a local discussion group at your home instutition or join an online group. Your group may choose to meet either once every week or every two weeks at any time of the week. If you need helping forming or connecting to a reading group, please contact [Nicolas Lou](nicolas931010@berkeley.edu). 
+
+> (or does someone else want to coordinate this?)
+
+#### Reading schedule
+
+We divided our readings into six general topics that fall under the general theme of the applications of genetic tools in conservation intervention. For each topic, there will be two main papers (in bold), and two supplementary papers that provide additional background to the topic. We will spend two weeks per topic, so if your group meet weekly, you can read one main paper per week and scan the supplemenary papers depending on your interest. If your group meet biweekly, we have chosen one out of the two main papers that we recommend you to focus on for each topic. 
+
+#### Navigating Slack 
+
+> this part needs to be updated with this year's activity)
+
+To facilitate discussions among members of the RCN, we have set up a Slack channel at [evolvingseas.slack.com](https://evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/zt-6qomho5f-TR75xoF25rgqKzqf5OxbUg). Then, under `Channels`, click the `+` and search for `2023-spring-readings`.
+
+For each topic, your group should choose one person to post a summary to the Slack channel that summarizes the group’s reaction to the papers and discussion questions. 
 
 All participants can use the thread feature in Slack to post additional questions, and react to comments or questions posed by other groups. We will also have a weekly thread dedicated to resolving questions that emerge from the readings. Moderators will monitor threads and respond to questions. We encourage individuals or groups to use these threads to clarify any uncertainties. 
-
-Under `Channels` click the `+` and search for `2023-spring-readings`
 
 Each week will have two threads: 
   * Under the thread `Week X. <Topic Name> Post your group's discussions here,` click on the chat icon `Reply to thread` to post a summary of your group's discussions.
   * To ask a question about the papers, use the thread `Week X. Questions for Understanding.` If you have any technical questions about the papers, post them here and the moderators will do their best to answer them!
 
-# Applications of genomic tools for conservation intervention
-
-Our fifth set of coordinated readings focuses on proactive conservation interventions. As we are facing a looming biodiversity crisis, conventional conservation strategies often seem insufficient and more proactive or even radical practices are needed. How can we use the rapidly evolving genomic toolbox to guide these conservation interventions?
-
-As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefore the final week is for groups to gather together, synthesize previous discussions, and provide answers to the four questions. We encourage groups to generate bold and testable predictions and to distance themselves from simply summarizing past discussions.
-
-This year's papers were selected by [Camille Rumberger](https://sites.google.com/site/katielotterhos/people?pli=1#h.1zk9vvawn8sx), [Mikhail Matz](https://matzlab.weebly.com/), and [Nicolas Lou](https://www.sudmantlab.org/people.html). [Brendan Reid](https://nerdbrained.wixsite.com/home) led a team to facilitate interactions among participants from different institutions. We are grateful to [Nina Overgaard Therkildsen](https://www.therkildsenlab.com/) who came up with this year's theme, as well as the broader RCN community for their efforts in generating topics, discussion questions, and scientific papers.
+Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter problems with Slack or accessing any of the readings.
 
 ## Week 1
 
-### Topic - Introduction to Genomic Tools for Conservation Intervention
+### Topic - Introduction to Genetic Tools for Conservation Intervention
 
 **Rationale:**
 
@@ -208,4 +218,5 @@ Authors:
 
 ### Topic: Synthesis
 
-**Rationale:** 
+**Rationale:** As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefore the final week is for groups to gather together and synthesize previous discussions.
+
