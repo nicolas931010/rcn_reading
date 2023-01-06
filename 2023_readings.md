@@ -162,7 +162,7 @@ Authors: Luke Browne, Jessica W. Wright, Sorel Fitz-Gibbon, Paul F. Gugger,  Vic
 
 ## Topic 5 - Artificial Breeding and Restoration *(March 20 - March 31)*
 
-**Rationale:** For populations that have experienced local extinction, reintroduction/restoration efforts using captively bred populations can be an effective conservation intervention strategy, and genetic tools can often be used to guide such efforts. The first reading of this week gives us an example of using temporal data to monitor a captive breeding program, and the second reading demonstrates the power of genomic data in screening the individuals selected for breeding. The two supplemental papers provide some extra background on the roles of genetic tools in captive breeding and restoration. 
+**Rationale:** For populations that have experienced local extinction, reintroduction/restoration efforts using captively bred individuals can be an effective conservation intervention strategy, and genetic tools can often be used to guide such efforts. The first paper of this week gives us an example of using temporal genetic data to monitor a captive breeding program, and the second paper demonstrates the power of genomics in screening the individuals selected for breeding. The two supplemental papers provide some extra background on the roles of genetic tools in captive breeding and restoration. 
 
 **Paper 1:**
 
@@ -190,11 +190,9 @@ Authors: Rebekah L. Horn, Cory Kamphaus, Keely Murdoch & Shawn R. Narum
 
 <br>
 
-## Topic 6 - Genome Editing and De-extinction *(April 3 - April 14)*
+## Topic 6 - Population Control and De-extinction through Genome Editing *(April 3 - April 14)*
 
-**Rationale:**
-
-
+**Rationale:** Using genome editing for population control and de-extinction are radical ideas that were once so far-fetched that they can only appear in scientic fictions, but with recent development in genome editing, they may soon become realities. Although this may sound exciting to many, there are many technical limitations as well as ethical considerations that still need to be addressed. For this week, we will read two papers that tackled some of the technical aspects of this discussion, whereas the two supplemental papers provide more context on the use of genome editing in conservation. 
 
 **Paper 1:**
 
