@@ -70,9 +70,7 @@ Authors: Ary A. Hoffmann, Adam D. Miller, Andrew R. Weeks
 
 ## Topic 2 - The Debate Surrounding Genetic Rescue *(February 6 - February 17)*
 
-**Rationale:** 
-
-
+**Rationale:** Genetic rescue is one of the few conservation intervention strategies that have already been implemented in multiple systems and it has enjoyed considerable success. However, it is also a topic of great controversy. The debate surrounding genetic rescue often centers around the benifit of genome-wide genetic diversity versus the cost of introduced deleterious mutations. This week's readings were selected to provide you with perspectives from both sides of this debate.
 
 **Paper 1:**
 
@@ -102,9 +100,7 @@ Authors: Marty Kardos, Ellie E. Armstrong, Sarah W. Fitzpatric, Samantha Hauser,
 
 ## Topic 3 - Genetic Rescue in Action *(February 20 - March 3)*
 
-**Rationale:**
-
-
+**Rationale:** Following up on last week's discussion on the pros and cons of genetic rescue, we will dive into several case studies this week to learn how genetic tools can be used to monitor and assess the result of real-life genetic rescue efforts. Based on this evidence, we can further discuss the key factors that may determine the success or failure of genetic rescue programs.
 
 **Paper 1:**
 
