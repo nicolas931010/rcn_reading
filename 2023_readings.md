@@ -100,7 +100,7 @@ Authors: Marty Kardos, Ellie E. Armstrong, Sarah W. Fitzpatric, Samantha Hauser,
 
 ## Topic 3 - Genetic Rescue in Action *(February 20 - March 3)*
 
-**Rationale:** Following up on last week's discussion on the pros and cons of genetic rescue, we will dive into several case studies this week to learn how genetic tools can be used to monitor and assess the result of real-life genetic rescue efforts. Based on this evidence, we can further discuss the key factors that may determine the success or failure of genetic rescue programs.
+**Rationale:** Following up on our last week's discussion on the theoretical pros and cons of genetic rescue, we will dive into several case studies this week to learn how genetic tools can be used to monitor and assess the result of real-life genetic rescue efforts. Based on this evidence, we can further discuss the key factors that may contribute to the success of genetic rescue programs.
 
 **Paper 1:**
 
@@ -136,7 +136,7 @@ This week’s readings were selected to provide a comprehensive overview of assi
 
 **Paper 1:**
 
-[The genetics of assisted gene flow: immediate costs and long-term benefits ](https://www.biorxiv.org/content/10.1101/2021.04.20.440707v1.full)  (recommended for bi-weekly groups)
+[The genetics of assisted gene flow: immediate costs and long-term benefits](https://www.biorxiv.org/content/10.1101/2021.04.20.440707v1.full) (recommended for bi-weekly groups)
 
 Authors: Jared A. Grummer, Tom R. Booker, Remi Matthey-Doret, Pirmin Nietlisbach, Andréa T. Thomaz, Michael C. Whitlock
 
@@ -162,9 +162,7 @@ Authors: Luke Browne, Jessica W. Wright, Sorel Fitz-Gibbon, Paul F. Gugger,  Vic
 
 ## Topic 5 - Artificial Breeding and Restoration *(March 20 - March 31)*
 
-**Rationale:**
-
-
+**Rationale:** For populations that have experienced local extinction, reintroduction/restoration efforts using captively bred populations can be an effective conservation intervention strategy, and genetic tools can often be used to guide such efforts. The first reading of this week gives us an example of using temporal data to monitor a captive breeding program, and the second reading demonstrates the power of genomic data in screening the individuals selected for breeding. The two supplemental papers provide some extra background on the roles of genetic tools in captive breeding and restoration. 
 
 **Paper 1:**
 
