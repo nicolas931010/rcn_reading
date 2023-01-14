@@ -8,15 +8,15 @@ subtitle: Applications of genetic tools for conservation intervention
 
 Our fifth set of coordinated readings focuses on conservation interventions. As we are facing a looming biodiversity crisis, conventional conservation strategies (e.g. endangered species list, protected areas, catch limits) often seem woefully insufficient and more proactive or even radical practices are increasingly being considered. How can we use the rapidly evolving genetic and genomic toolbox to guide these conservation interventions?
 
-This year's papers were selected by [Camille Rumberger](https://sites.google.com/site/katielotterhos/people?pli=1#h.1zk9vvawn8sx), [Mikhail Matz](https://matzlab.weebly.com/), and [Nicolas Lou](https://www.sudmantlab.org/people.html). [Brendan Reid](https://nerdbrained.wixsite.com/home) led a team that developed strategies to facilitate interactions among participants from different institutions. We are grateful to [Nina Overgaard Therkildsen](https://www.therkildsenlab.com/) for coming up with this year's theme, as well as the broader RCN community for their efforts in generating topics, discussion questions, and scientific papers.
+This year's papers were selected by [Camille Rumberger](https://sites.google.com/site/katielotterhos/people?pli=1#h.1zk9vvawn8sx), [Mikhail Matz](https://matzlab.weebly.com/), and [Nicolas Lou](https://www.sudmantlab.org/people.html). [Brendan Reid](https://nerdbrained.wixsite.com/home) led a team (with Melissa Naugle, Lindsay Yue, and Len Aguila) that developed strategies to facilitate interactions among participants from different institutions. We are grateful to [Nina Overgaard Therkildsen](https://www.therkildsenlab.com/) for coming up with this year's theme, as well as the broader RCN community for their efforts in generating topics, discussion questions, and scientific papers.
 
 ## Logistics
 
 #### Forming a discussion group
 
-We encourage you to discuss the papers with a smaller group of participants prior to joining the larger RCN reading group community on Slack. You can either form a local discussion group at your home instutition or join an online group. Your group may choose to meet either once every week or every two weeks at any time of the week. If you need helping forming or connecting to a reading group, please contact [Nicolas Lou](nicolas931010@berkeley.edu). 
+We encourage you to discuss the papers with a smaller group of participants prior to joining the larger RCN reading group community on Slack. You can either form a local discussion group at your home instutition or join an online group. Your group may choose to meet either once every week or every two weeks at any time of the week. If you need helping forming or connecting to a reading group, we will provide a "looking for group" Slack thread to connect individuals who do not have an existing group at their institution. Please contact [Brendan Reid](nerdbrained@gmail.com) or [Nicolas Lou](nicolas931010@berkeley.edu) if you have any additional questions.
 
-> (or does someone else want to coordinate this?)
+Once you have formed a group, have a representative create a short introductory thread for your group (including a name for the group and potentially also names of group members, physical location(s), and career stages).
 
 #### Reading schedule
 
@@ -24,19 +24,26 @@ We divided our readings into six different topics that fall under the general th
 
 #### Navigating Slack 
 
-> this part needs to be updated with this year's activity
-
 To facilitate discussions among members of the RCN, we have set up a Slack channel at [evolvingseas.slack.com](https://evolvingseas.slack.com). To join the channel please [visit this site](https://join.slack.com/t/evolvingseas/shared_invite/zt-6qomho5f-TR75xoF25rgqKzqf5OxbUg). Then, under `Channels`, click the `+` and search for `2023-spring-readings`.
 
 For each topic, your group should choose one person to post a summary to the Slack channel that summarizes the group’s reaction to the papers and discussion questions. 
 
 All participants can use the thread feature in Slack to post additional questions, and react to comments or questions posed by other groups. We will also have a weekly thread dedicated to resolving questions that emerge from the readings. Moderators will monitor threads and respond to questions. We encourage individuals or groups to use these threads to clarify any uncertainties. 
 
-Each week will have two threads: 
-  * Under the thread `Week X. <Topic Name> Post your group's discussions here,` click on the chat icon `Reply to thread` to post a summary of your group's discussions.
+Each week will have several Slack threads for discussion: 
+  * For each group signed up for the readings, we will create a thread entitled `Week X. Topic Name. Group Y: Post your group's discussions here.` Click on the chat icon `Reply to thread` to post a summary of your group's discussions. You are also encouraged to read other group's discussion summaries and reply if you have have any input or alternate perspectives raised in your group.
   * To ask a question about the papers, use the thread `Week X. Questions for Understanding.` If you have any technical questions about the papers, post them here and the moderators will do their best to answer them!
 
+As a "reward" for fully participating in the readings, we have some snazzy stickers emblazoned with the RCN logo that will be sent out to all groups that submit summaries for every set of readings!
+
 Please contact [Nicolas Lou](nicolas931010@berkeley.edu) if you encounter problems with Slack or accessing any of the readings.
+
+#### Live discussion / RCN Happy Hour
+
+In addition to interactions over Slack and within your discussion group, we are planning on conducting a series of RCN "happy hours" over Zoom with opportunities for larger discussions and interaction with paper authors and practitioners involved in implementing the strategies discussed in the readings. An introductory happy hour is tentatively planned for 5:30 PM EST on Feb 9, 2023. We realize that finding a single time that works for all will be difficult, and any presentations or panel discussiobs will also be recorded and made available to watch asynchronously.
+
+Watch this space for more details as the happy hour plans develop!
+
 
 <br>
 
@@ -222,6 +229,6 @@ Authors: Jianqing Lin, David Duchêne, Christian Carøe, Oliver Smith, Marta Mar
 
 ## Synthesis *(April 17 - April 28)*
 
-**Rationale:** As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefore the final week is for groups to gather together and synthesize previous discussions.
-
-> this part needs to be updated with this year's activity
+**Rationale:** As always, a central goal of the RCN-ECS is to synthesize and integrate ideas about evolution in changing seas. Therefore, the final week is for groups to gather together and synthesize previous discussions. Your group are also welcome to discuss any additional papers that you find interesting, or have several blitz presentations with each participant choosing one paper to present in 5-10 minutes. 
+ 
+ 
